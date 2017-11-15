@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Super Professional Fighters</title>
-  <link rel="stylesheet" type="text/css" href="./bootstrap/css/bootstrap.css">
-  <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
-</head>
-<body>
-
   <?php include('./header.php'); ?>
 
   <div class="container">
@@ -20,7 +11,7 @@
       <div class="row">
 
         <div class="col-md-6">
-          <a href="#" class="btn btn-success btn-lg btn-block">Personagens</a>
+          <a href="./personagens.php" class="btn btn-success btn-lg btn-block">Personagens</a>
         </div>
 
         <div class="col-md-6">
@@ -31,23 +22,7 @@
     </div>
 
   </div>
-  
+
   <br clear="all" />
 
   <?php include('./footer.php'); ?>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="./bootstrap/js/bootstrap.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    
-    $(document).ready(function(){
-
-      $('#footer-personagens').hover(function(){
-        alert('Selecione seu personagem');
-      });
-
-    });
-
-  </script>
-</body>
-</html>
