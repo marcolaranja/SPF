@@ -3,6 +3,14 @@
   <div class="container">
     <h1 class="text-center">Super Professional Fighters <br><small>Escolha o seu profisonal</small></h1>
 
+       <div class="embed-responsive embed-responsive-16by9"> 
+        <iframe class="embed-responsive-item"
+          src="https://www.youtube.com/embed/0VMu1yEERkU" allowfullscreen>
+        </iframe> 
+       </div>
+
+      <br clear="all" />
+
     <img src="./assets/images/banner-home.jpg" class="img-responsive center-block">
 
     <br clear="all" />
