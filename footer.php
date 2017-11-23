@@ -38,8 +38,25 @@
 
   <br clear="all" />
   <br clear="all" />
+  <br clear="all" />
 
 </footer>
+<div class="container">
+    
+    <div class="row">
+      
+      <div class="col-md-12 text-right">
+        <br clear="all" />
+        <a href="http://www.facebook.com" target="_blank"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>
+        <a href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
+        <a href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
+        <br clear="all" />
+
+      </div>
+
+    </div>
+
+  </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="./bootstrap/js/bootstrap.js" type="text/javascript"></script>

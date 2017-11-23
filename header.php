@@ -3,6 +3,7 @@
 <head>
   <title>Super Professional Fighters</title>
   <link rel="stylesheet" type="text/css" href="./bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" href="./assets/fonts/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 </head>
 <body>
