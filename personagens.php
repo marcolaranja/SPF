@@ -1,19 +1,44 @@
   <?php include('./header.php'); ?>
 
-    <div class="container">
+  <div class="row">
+   <div class="column">
+     <div class="card">
+       <img src="img1.jpg" alt="Jane" style="width:100%">
+       <div class="container">
+         <h2>Personagem 1</h2>
+         <p class="title">CEO &amp; Founder</p>
+         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+         <p>example@example.com</p>
+         <p><button class="button">Contact</button></p>
+       </div>
+     </div>
+   </div>
 
-          <h1 class="text-center">Personagens</h1>
+   <div class="column">
+     <div class="card">
+       <img src="img2.jpg" alt="Mike" style="width:100%">
+       <div class="container">
+         <h2>Personagem 2</h2>
+         <p class="title">Art Director</p>
+         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+         <p>example@example.com</p>
+         <p><button class="button">Contact</button></p>
+       </div>
+     </div>
+   </div>
 
-          <div class="row text-center">
-
-	          <a role="button" class="btn btn-success col-md-4" href="./personagem1.php" >Personagem 1</a>
-	          <a role="button" class="btn btn-success col-md-4" href="./personagem2.php" >Personagem 2</a>
-	          <a role="button" class="btn btn-success col-md-4" href="./personagem3.php" >Personagem 3</a>
-	          <a role="button" class="btn btn-success col-md-4" href="./personagem4.php" >Personagem 4</a>
-	          <a role="button" class="btn btn-success col-md-4" href="./personagem5.php" >Personagem 5</a>
-	          <a role="button" class="btn btn-success col-md-4" href="./personagem6.php" >Personagem 6</a>
-          </div>
-
-    </div>
+   <div class="column">
+     <div class="card">
+       <img src="img3.jpg" alt="John" style="width:100%">
+       <div class="container">
+         <h2>Personagem 3</h2>
+         <p class="title">Designer</p>
+         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+         <p>example@example.com</p>
+         <p><button class="button">Contact</button></p>
+       </div>
+     </div>
+   </div>
+ </div>
 
   <?php include('./footer.php'); ?>
