@@ -2,7 +2,9 @@
 
    <div class="container">
 
-         <h1>Personagem 6</h1>
+         <h1>Presidente</h1>
+
+         <p>Presidente do mundo</p>
 
    </div>
 

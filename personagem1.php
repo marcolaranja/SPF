@@ -2,7 +2,9 @@
 
    <div class="container">
 
-         <h1>Personagem 1</h1>
+         <h1>Helga Jordbävning</h1>
+
+         <p>Suécia</p>
 
    </div>
 

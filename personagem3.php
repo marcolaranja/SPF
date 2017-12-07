@@ -2,7 +2,9 @@
 
    <div class="container">
 
-         <h1>Personagem 3</h1>
+         <h1>John Doe</h1>
+
+         <p>Soldado - exercito</p>
 
    </div>
 

@@ -2,7 +2,9 @@
 
    <div class="container">
 
-         <h1>Personagem 2</h1>
+         <h1>Quinn Reagan</h1>
+
+         <p>Irlanda</p>
 
    </div>
 
