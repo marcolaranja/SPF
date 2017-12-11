@@ -2,9 +2,23 @@
 
    <div class="container">
 
-         <h1>Helga Jordbävning</h1>
+   		<div class="row">
 
-         <p>Suécia</p>
+   			<div class="col-md-8">
+
+   				<img src="./assets/images/sweden.png" class="img-thumbnail" alt="Sweden flag" height="200" width="200">
+
+   				<div class="page-header">
+
+       		  <h1>Helga Jordbävning</h1>
+
+        		<p>Suécia</p>
+
+        		</div>
+
+        	 </div>
+
+         </div>
 
    </div>
 
