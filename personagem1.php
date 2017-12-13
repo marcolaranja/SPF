@@ -12,7 +12,7 @@
 
        		  <h1>Helga Jordbävning</h1>
 
-        		<p>Suécia</p>
+        		<p>Sweden</p>
 
         		</div>
 

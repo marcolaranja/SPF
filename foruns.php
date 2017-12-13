@@ -2,7 +2,7 @@
 
    <div class="container">
 
-         <h1>Foruns</h1>
+         <h1>Forum</h1>
 
    </div>
 

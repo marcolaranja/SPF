@@ -14,21 +14,21 @@
       <div class="col-md-4 col-md-offset-1 text-center box-footer">
         <h3>Institucional</h3>
         <ul>
-          <li><a href="./sobre.php" class="text-white">Sobre</a></li>
-          <li><a href="./foruns.php" class="text-white">Foruns</a></li>
-          <li><a href="./contato.php" class="text-white">Contato</a></li>
+          <li><a href="./sobre.php" class="text-white">About</a></li>
+          <li><a href="./foruns.php" class="text-white">Forum</a></li>
+          <li><a href="./contato.php" class="text-white">Contact</a></li>
         </ul>
       </div>
 
       <div class="col-md-4 text-center box-footer">
-        <h3><a href="./personagens.php" class="text-white">Personagens</a></h3>
+        <h3><a href="./personagens.php" class="text-white">Characters</a></h3>
         <ul>
-          <li><a href="./personagem1.php" class="text-white">Personagem 1</a></li>
-          <li><a href="./personagem2.php" class="text-white">Personagem 2</a></li>
-          <li><a href="./personagem3.php" class="text-white">Personagem 3</a></li>
-          <li><a href="./personagem4.php" class="text-white">Personagem 4</a></li>
-          <li><a href="./personagem5.php" class="text-white">Personagem 5</a></li>
-          <li><a href="./personagem6.php" class="text-white">Personagem 6</a></li>
+          <li><a href="./personagem1.php" class="text-white">Character 1</a></li>
+          <li><a href="./personagem2.php" class="text-white">Character 2</a></li>
+          <li><a href="./personagem3.php" class="text-white">Character 3</a></li>
+          <li><a href="./personagem4.php" class="text-white">Character 4</a></li>
+          <li><a href="./personagem5.php" class="text-white">Character 5</a></li>
+          <li><a href="./personagem6.php" class="text-white">Character 6</a></li>
         </ul>
       </div>
 
@@ -42,9 +42,9 @@
 
 </footer>
 <div class="container">
-    
+
     <div class="row">
-      
+
       <div class="col-md-12 text-right">
         <br clear="all" />
         <a href="http://www.facebook.com" target="_blank"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>

@@ -37,8 +37,8 @@
               <li><a href="./personagem6.php">Personagem 6</a></li>
             </ul>
           </li>
-          <li><a href="./foruns.php">Foruns</a></li>
-          <li><a href="./contato.php">Contato</a></li>
+          <li><a href="./foruns.php">Forum</a></li>
+          <li><a href="./contato.php">Contact</a></li>
         </ul>
         <form class="navbar-form navbar-right">
           <div class="form-group">
